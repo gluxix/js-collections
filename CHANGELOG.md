@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Optional iterable object to the LinkedList constructor
 - LinkedList#add(value, position) method
 - LinkedList#remove(position) method
+### Fixed
+- Typos in README
 ### Removed
 - LinkedList.fromIterable()
 

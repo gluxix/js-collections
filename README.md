@@ -10,4 +10,4 @@ You can see collection examples in tests.
 
 ## Installing
 
-`npm install --save @gluxix/js-collections`
+`npm install --save another-js-collections`
