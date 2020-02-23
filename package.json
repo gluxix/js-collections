@@ -1,0 +1,27 @@
+{
+  "name": "another-js-collections",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Another base collections library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "collections",
+    "linked",
+    "list",
+    "queue"
+  ],
+  "author": "Vladimir Glukhikh <gluxix1993@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gluxix/js-collections"
+  },
+  "homepage": "https://github.com/gluxix/js-collections",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
